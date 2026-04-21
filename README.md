@@ -60,6 +60,11 @@ Integration (run back-end & front-end on same server/port)
 ## Project setup
 ```
 npm install
+
+// TODO: improve error handling
+
+res.send()  // in one file
+res.json()  // in another
 ```
 
 ### Run
